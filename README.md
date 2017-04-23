@@ -1,5 +1,9 @@
-mean-auth-starter
+todo-mean-auth-starter
 =====
+
+I was impressed with ui-router-extras and state vis;
+
+This repository adds ui-router-extras, todo to "mean-auth-starter";
 
 > Authentication: Built with the MEAN stack. (JWT, not passport)
 
@@ -7,7 +11,7 @@ mean-auth-starter
 ### Getting started
 ```
 $ git clone <this_repo_url>
-$ cd mean-auth-starter
+$ cd todo-mean-auth-starter
 $ npm install
 $ nodemon server
 ```
